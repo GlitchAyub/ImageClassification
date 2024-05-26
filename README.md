@@ -1,7 +1,7 @@
 # Image Classifier
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![GitHub Issues](https://img.shields.io/github/issues/GlitchAyub/ImageClassification.svg)](https://github.com/yourusername/repositoryname/issues)
+[![GitHub Issues](https://img.shields.io/github/issues/GlitchAyub/ImageClassification.svg)](https://github.com/GlitchAyub/ImageClassification/issues)
 [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/GlitchAyub/ImageClassification.svg)](https://github.com/GlitchAyub/ImageClassification/pulls)
 
 Detect The Image of an Athelete And Shows the Details 
