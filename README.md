@@ -6,9 +6,6 @@
 
 Detect The Image of an Athelete And Shows the Details 
 
-![Demo](code.gif)
-
-
 ## Table of Contents
 
 - [Installation](#installation)
