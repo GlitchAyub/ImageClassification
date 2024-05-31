@@ -6,6 +6,9 @@
 
 Detect The Image of an Athelete And Shows the Details 
 
+I have Train this model with 20 images of my 5 Athelete
+### For Better Accuracy of this Model You Can feed More Datasets(images)
+
 ## Table of Contents
 
 - [Installation](#installation)
