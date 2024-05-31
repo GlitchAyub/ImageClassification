@@ -4,10 +4,10 @@
 [![GitHub Issues](https://img.shields.io/github/issues/GlitchAyub/ImageClassification.svg)](https://github.com/GlitchAyub/ImageClassification/issues)
 [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/GlitchAyub/ImageClassification.svg)](https://github.com/GlitchAyub/ImageClassification/pulls)
 
-Detect The Image of an Athelete And Shows the Details 
+## Detect The Image of an Athelete And Shows the Details 
 
-I have Train this model with 20 images of my 5 Athelete
-### For Better Accuracy of this Model You Can feed More Datasets(images)
+### I have Train this model with 20 images of my 5 Athelete
+For Better Accuracy of this Model You Can feed More Datasets(images)
 
 ## Table of Contents
 
