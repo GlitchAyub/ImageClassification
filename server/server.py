@@ -15,5 +15,6 @@ def classify():
 
 if __name__=='__main__':
     print('Stating Flask Server')
+    # load the artifacts first
     utills.load_saved_artifacts()
     app.run(port=5000)
