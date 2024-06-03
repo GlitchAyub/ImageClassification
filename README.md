@@ -45,5 +45,5 @@ Unix/macOS:
 In Front-end I Used Reactjs with bootstrap 5
 ```
 ## Screenshots
-[Gif](./screenshot/git.gif)
+[Gif](./screenshots/git.gif)
 
