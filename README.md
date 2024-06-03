@@ -44,7 +44,7 @@ In Front-end I Used Reactjs with bootstrap 5
 ```
 ## Screenshots
 ![Gif](./screenshots/git.gif)
-![Png](./screenshots/Screenshot1)
+![Png](./screenshots/Screenshot1.png)
 
 
 
