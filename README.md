@@ -14,8 +14,6 @@ For Better Accuracy of this Model You Can feed More Datasets(images)
 - [Installation](#installation)
 - [Frontend](#frontend)
 - [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
 - [Acknowledgments](#acknowledgments)
 
 ## Installation
@@ -45,5 +43,5 @@ Unix/macOS:
 In Front-end I Used Reactjs with bootstrap 5
 ```
 ## Screenshots
-[Gif](./screenshots/git.gif)
+![Gif](./screenshots/git.gif)
 
