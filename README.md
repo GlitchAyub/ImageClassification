@@ -46,7 +46,7 @@ In Front-end I Used Reactjs with bootstrap 5
 
 ![Png](./screenshots/Screenshot1.png)
 ![Gif](./screenshots/git.gif)
-![Png](./screenshots/Screenshot2.png)![Png](./screenshots/Screenshot3.png)![Png](./screenshots/Screenshot4.png)![Png](./screenshots/Screenshot5.png)![Png](./screenshots/Screenshot6.png)![Png](./screenshots/Screenshot7.png)![Png](./screenshots/Screenshot8.png)
+![Png](./screenshots/Screenshot3.png)![Png](./screenshots/Screenshot4.png)![Png](./screenshots/Screenshot5.png)![Png](./screenshots/Screenshot6.png)![Png](./screenshots/Screenshot7.png)![Png](./screenshots/Screenshot8.png)
 
 
 
