@@ -1,6 +1,9 @@
 from flask import Flask , request ,jsonify
 import utills
+from flask_cors import CORS
 app = Flask(__name__)
+CORS(app)
+
 
 @app.route('/classify_image',methods=['Get','Post'])
 def classify():
