@@ -40,7 +40,7 @@ Unix/macOS:
 
 ## Frontend
 ```bash
-In Front-end I Used Reactjs with bootstrap 5
+ Front-end React
 ```
 ## Screenshots
 
